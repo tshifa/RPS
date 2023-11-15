@@ -1,6 +1,6 @@
 import random
 
-print("Hello! Welcome to Rock, Paper, Scissors!!!!!")
+print("Hello! Welcome to Rock, Paper, Scissors!")
 player = input("Pick either 0, 1, or 2 for Rock, Paper, or Scissors, respectively. ")
 
 player = int(player)
